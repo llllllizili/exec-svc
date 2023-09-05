@@ -9,7 +9,7 @@
 
 [测试报告](https://github.com/llllllizili/exec-svc/blob/main/images/ExecutionEnginePerformanceTestReport.pdf)
 
-# 安转
+# 安装
 
 ## CentOS 7
 
