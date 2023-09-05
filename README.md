@@ -1,6 +1,14 @@
 # README
 
 
+![](./images/架构图.png)
+
+
+![](./images/调用关系.png)
+
+
+[测试报告](https://github.com/llllllizili/zbx-wechat/blob/main/images/ExecutionEnginePerformanceTestReport.pdf)
+
 # 安转
 
 ## CentOS 7
